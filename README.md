@@ -30,3 +30,9 @@ stock y valor del inventario en un solo panel.
 
 El usuario inicial se define en `database.sql`. En producción debe cambiarse
 la contraseña después de la primera configuración.
+
+## Actividad 2: Control de versiones con Git
+
+Se creó la rama `feature/mejora-dashboard` para realizar modificaciones sin afectar directamente a la rama principal `main`.
+
+Se registrarán los cambios mediante un commit, luego se integrarán en la rama principal y se publicarán en GitHub.
